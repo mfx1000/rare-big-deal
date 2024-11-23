@@ -325,6 +325,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 🤑 | [TapRefer](https://https://taprefer.com/) | Find & submit Affiliate programs to monetize your content, fast | 80% OFF with code **NEXT100** |
 | 🤝 | [Affonso.io](https://affonso.io) | Affiliate Marketing Software built for SaaS & productized services. Set up once, scale | 10% OFF on Revenue Pass (One-time payment) with code **BLACKFRIDAY** |
+| ⭐ | [AffiliateForCreators](https://affiliateforcreators.com) | Submit Affiliate programs to get them promoted by quality content creators | 40% OFF for Lifetime Listing |
 
 ### Analytics
 | | Name | Description | Deal |
